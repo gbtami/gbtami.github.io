@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Migrating PyChess project hosting from Google Code to GitHub
+comments: true
 categories: [pychess, python, github]
 ---
 
