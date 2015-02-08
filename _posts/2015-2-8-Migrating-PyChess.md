@@ -36,4 +36,4 @@ Unfortunately GitHub doesn't has any import/export functionality, just a web API
 
 With some [info](https://github.com/octokit/octokit.net/issues/638) from predecessors helped again. So I created my own [clone](https://code.google.com/r/gbtami-googlecode2github/), and enhanced it and fixed some bugs.
 
-Finally the [discussion](https://code.google.com/p/pychess/issues/detail?id=937) about migration showed that contributors prefer GitHub better than Bitbucked, so PyChess now moved to https://github.com/pychess/pychess
+Finally the [discussion](https://code.google.com/p/pychess/issues/detail?id=937) about migration showed that contributors prefer GitHub better than Bitbucked, so PyChess now moved to [https://github.com/pychess/pychess](https://github.com/pychess/pychess)
