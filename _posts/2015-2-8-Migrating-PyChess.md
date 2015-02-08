@@ -9,12 +9,14 @@ The project was hosted on Google Code from the beginning and everything was OK f
 Where to go? Today the two most viable alternative is GitHub and Bitbucket. The arguments:
 
 GitHub
+
   - Most popular, most visible
   - Has Gists (Gists let you apply version control to shareable code snippets)
   - Issue tracker has labeling
   - No file attachments in issue tracker (except pictures)
 
 Bitbucket
+
   - Some project we collaborate with or plan to use are on Bitbucket:
       * gbulb - a PEP 3156 event loop based on GLib
       * fatics - an Internet chess server intended to be a free software equivalent for the server that currently runs at freechess.org
