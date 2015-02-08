@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Migrating PyChess project hosting from Google Code to GitHub
+categories: [pychess, python, github]
 ---
 
 [PyChess](http://www.pychess.org) is a free chess client for Linux desktop created by Thomas Dybdahl Ahle.
