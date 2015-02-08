@@ -30,7 +30,7 @@ Importing our code repository was just a few click in both, so this was not a pr
 
 It's funny, but finally I find what I wanted on Google Code! https://code.google.com/p/support-tools/ They started to create an issue converter from Google Code to Bitbucket/GitHub. To Bitbucket it doesn't migrate attachments, but I created my own [clone](https://code.google.com/r/gbtami-googlecode2bitbucket/), and enhanced it to do.
 
-Unfortunately GitHub doesn't has any import/export functionality, just a web API to push new issues and comments to it. The only remaining problem was when I always run into GitHubs abuse message:
+Unfortunately GitHub doesn't has any import/export functionality, just a web API to push new issues and comments to it. The only remaining problem was when I always run into GitHub abuse message:
 
     You have triggered an abuse detection mechanism and have been temporarily blocked from content creation. Please retry your request again later.
 
