@@ -30,7 +30,7 @@ Bitbucket
 OK, let see how easy to migrate to them!
 Importing our code repository was just a few click in both, so this was not a problem. But what about our issues? First I googled a bit to find how others migrated to Bitbucket. I'v got several hits, and the most promising was [this](https://bitbucket.org/equalsraf/leave-googlecode/) one, but unfortunately when I tried it turned out that Google [shut down](https://code.google.com/p/support/wiki/IssueTrackerAPI) the Issue Tracker Data API too. Sigh.
 
-It's funny, but finally I find what I wanted on Google Code! https://code.google.com/p/support-tools/ They started to create an issue converter from Google Code to Bitbucket/GitHub. To Bitbucket it doesn't migrate attachments, but I created my own [clone](https://code.google.com/r/gbtami-googlecode2bitbucket/), and enhanced it to do.
+It's funny, but finally I find what I wanted on Google Code! [https://code.google.com/p/support-tools/](https://code.google.com/p/support-tools/) They started to create an issue converter from Google Code to Bitbucket/GitHub. To Bitbucket it doesn't migrate attachments, but I created my own [clone](https://code.google.com/r/gbtami-googlecode2bitbucket/), and enhanced it to do.
 
 Unfortunately GitHub doesn't has any import/export functionality, just a web API to push new issues and comments to it. The only remaining problem was when I always run into GitHub abuse message:
 
