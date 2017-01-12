@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Just a random blog
+Random blog
