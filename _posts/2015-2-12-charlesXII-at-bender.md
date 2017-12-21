@@ -6,23 +6,23 @@ categories: [chess, puzzle]
 ---
 
 There was prosperous chess life in my home town when I was a little child about
-early 70th. That time our local chess club was led by István Szántó who was a 
-strong correspondence player. He played at World Championship Final as mentioned 
+early 70th. That time our local chess club was led by István Szántó who was a
+strong correspondence player. He played at World Championship Final as mentioned
 in [ICCF article](https://www.iccf.com/country?country=HUN).
 
-![sakkozok](https://scontent-a-fra.xx.fbcdn.net/hphotos-xfp1/t31.0-8/882106_10201996265172924_5955958681403622407_o.jpg)
+![sakkozok]({{site.baseurl}}/images/battonyai_sakkozok.jpg)
 The members of local chess club Battonya, Hungary, about 1970
 
 My father brought me with him several times when
-they came togther to analyse some games. One day Szántó entertained me with a 
-historical chess puzzle. The story was about a king in war playing a game and announcing 
-mate in 3 when a bullet removed a piece off the table. But he just anounced 
-mate in 4. Then another bullet removed another piece, but he just announced mate in 5. 
+they came togther to analyse some games. One day Szántó entertained me with a
+historical chess puzzle. The story was about a king in war playing a game and announcing
+mate in 3 when a bullet removed a piece off the table. But he just anounced
+mate in 4. Then another bullet removed another piece, but he just announced mate in 5.
 Cool isn't it?
 
-It was about 40 years ago, and for long years I wasn't able to remember the 
-puzzle itself. The story was always in my mind and couple of yers ago I 
-started to search chess puzzle books in second hand bookshops. 
+It was about 40 years ago, and for long years I wasn't able to remember the
+puzzle itself. The story was always in my mind and couple of yers ago I
+started to search chess puzzle books in second hand bookshops.
 And finally I find this:
 
 ![enpassant](http://upload.wikimedia.org/wikipedia/hu/thumb/8/81/Enpassant_felugyelo_kaladjai.jpg/325px-Enpassant_felugyelo_kaladjai.jpg)
@@ -74,8 +74,8 @@ Rh2 gxh2 5. g4# 1-0
     </td>
   </tr>
 </table>
- 
-Nowadays in internet era you can find this puzzle easily in several places 
+
+Nowadays in internet era you can find this puzzle easily in several places
 like
 
   * [chess problem database](http://www.yacpdb.org/?id=47427)
