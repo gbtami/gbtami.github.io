@@ -8,16 +8,5 @@ categories: [pychess, lichess, chess]
 An awesome chess piece set offered by James A. Kessler is available for Lichess at
 ![userstyles](https://userstyles.org/styles/163429/leipzig-for-lichess)
 
-![bp](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/bp.svg)
-![bn](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/bn.svg)
-![bb](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/bb.svg)
-![br](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/br.svg)
-![bq](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/bq.svg)
-![bk](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/bk.svg)
-
-![](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/wp.svg)
-![](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/wn.svg)
-![](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/wb.svg)
-![](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/wr.svg)
-![](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/wq.svg)
-![](https://raw.githubusercontent.com/pychess/pychess/master/pieces/leipzig/wk.svg)
+![bp]({{site.baseurl}}/images/leipzig/bp.svg)![bn]({{site.baseurl}}/images/leipzig/bn.svg)![bb]({{site.baseurl}}/images/leipzig/bb.svg)![br]({{site.baseurl}}/images/leipzig/br.svg)![bq]({{site.baseurl}}/images/leipzig/bq.svg)![bk]({{site.baseurl}}/images/leipzig/bk.svg)
+![]({{site.baseurl}}/images/leipzig/wp.svg)![]({{site.baseurl}}/images/leipzig/wn.svg)![]({{site.baseurl}}/images/leipzig/wb.svg)![]({{site.baseurl}}/images/leipzig/wr.svg)![]({{site.baseurl}}/images/leipzig/wq.svg)![]({{site.baseurl}}/images/leipzig/wk.svg)
